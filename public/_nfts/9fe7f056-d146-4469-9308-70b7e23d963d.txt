@@ -1,0 +1,1 @@
+{"name":"nft2","description":"user1","price":"2.2","category":"Art","image":"http://localhost:3000/_nfts/upload_426b3c6a572de889908727788fc6ea39.png","id":"9fe7f056-d146-4469-9308-70b7e23d963d","bids":[{"bidder":null,"bidAmount":"2.5","bidTime":1645628991}]}

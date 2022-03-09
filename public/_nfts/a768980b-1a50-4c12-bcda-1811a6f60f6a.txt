@@ -1,0 +1,1 @@
+{"name":"smoke","description":"u1 auction","price":"1.1","category":"Art","image":"http://localhost:3000/_nfts/upload_19423cd5d4b33c32487db4da8adfd753.png","id":"a768980b-1a50-4c12-bcda-1811a6f60f6a","bids":[{"bidder":null,"bidAmount":"2.2","bidTime":1645630939}]}

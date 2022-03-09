@@ -1,0 +1,1 @@
+{"name":"smoking nft","description":"smoke","price":"1.5","category":"Meme","image":"http://localhost:3000/_nfts/upload_f38dc54313b1c7c2f1bfdc12d0b78659.png","id":"0ff4bed6-8c10-4363-913b-9ba32385f8be","bids":[]}

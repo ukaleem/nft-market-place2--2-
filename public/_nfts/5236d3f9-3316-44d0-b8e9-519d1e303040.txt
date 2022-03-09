@@ -1,0 +1,1 @@
+{"name":"blackhair","description":"my test NFT","price":"0.1","category":"Photography","image":"http://localhost:3000/_nfts/upload_71f1138e2a81e7ff8e67ab8f00ed80dc.png","id":"5236d3f9-3316-44d0-b8e9-519d1e303040","bids":[]}

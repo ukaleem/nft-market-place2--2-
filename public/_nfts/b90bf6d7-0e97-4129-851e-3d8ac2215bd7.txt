@@ -1,0 +1,1 @@
+{"name":"fire eyed","description":"test nft","price":"0.15","category":"Art","image":"http://localhost:3000/_nfts/upload_c5b6a18ee47dea04b874f36c63d1c89d.png","id":"b90bf6d7-0e97-4129-851e-3d8ac2215bd7","bids":[]}

@@ -1,0 +1,1 @@
+{"name":"white teeth","description":"user1 auction1","price":"2.6","category":"Art","image":"http://localhost:3000/_nfts/upload_11e11d4fbc3014b440290a16a5a0a551.png","id":"30f33617-5af5-40da-b13b-6b85b65f1c37","bids":[{"bidder":null,"bidAmount":"5.1","bidTime":1645629810},{"bidder":null,"bidAmount":"5.1","bidTime":1645629822}]}

@@ -1,0 +1,1 @@
+{"name":"green hair","description":"test NFT","price":"0.2","category":"Photography","image":"http://localhost:3000/_nfts/upload_a3f88020fce2e4d87467435fce9c7df6.png","id":"3e4d840d-bc8a-43ea-a912-6bf188f00660","bids":[]}

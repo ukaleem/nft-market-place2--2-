@@ -1,0 +1,1 @@
+{"name":"laser eye","description":"user1 nft","price":"1.1","category":"Photography","image":"http://localhost:3000/_nfts/upload_78bd325815b55552b944e76a8efbbbc3.png","id":"8f669d94-9967-4a76-83a8-730ca6d3013c","bids":[]}

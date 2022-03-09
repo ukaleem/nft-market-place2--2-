@@ -1,0 +1,1 @@
+{"name":"11","description":"1","price":"1","category":"Art","image":"http://localhost:3000/_nfts/upload_b118dbc8b3a2cc69ad419a8dc0b6a167.png","id":"7e775ff6-b259-401d-8d81-08eb433d4d25","bids":[]}

@@ -1,0 +1,1 @@
+{"name":"laser","description":"user1","price":"1.1","category":"Photography","image":"http://localhost:3000/_nfts/upload_e283dd45c3c9b1dccf58baafc7f4af60.png","id":"7fe0a715-3453-487c-af25-f6ead2b3fc6a","bids":[]}

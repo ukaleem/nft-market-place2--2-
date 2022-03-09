@@ -1,0 +1,1 @@
+{"name":"laser","description":"dd","price":"2.1","category":"Art","image":"http://localhost:3000/_nfts/upload_401f7567b3f22ef1cca9a16c83bc49be.png","id":"796f7f2b-ee08-49f7-9bda-b3d133eb6728","bids":[]}

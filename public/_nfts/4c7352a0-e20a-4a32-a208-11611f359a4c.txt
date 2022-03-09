@@ -1,0 +1,1 @@
+{"name":"ringgirl","description":"ring","price":"1.1","category":"Art","image":"http://localhost:3000/_nfts/upload_f10169ee6c288a07e099c0e4a2193b0c.png","id":"4c7352a0-e20a-4a32-a208-11611f359a4c","bids":[]}
